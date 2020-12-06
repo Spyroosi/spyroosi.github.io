@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Huhut-ja-juoruts on Spyroosi 2020</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Huhut-ja-juoruts on Spyroosi 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2020 22:10:20 +0300</lastBuildDate>
-    
-	<atom:link href="https://spyroosi.xyz/huhut-ja-juorut/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 26 May 2020 22:10:20 +0300</lastBuildDate><atom:link href="https://spyroosi.xyz/huhut-ja-juorut/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unispyroosit</title>
       <link>https://spyroosi.xyz/huhut-ja-juorut/unispyroosit/</link>
